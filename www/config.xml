@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
+        id        = "com.polyu.fo"
+        version   = "0.1.0">
 
-    <name>Hello World</name>
+    <name>Finance Office Web App</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        The web application for the Finance Office of the Hong Kong Polytechnic University
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://www.polyu.edu.hk/fo" email="cychan2@gmail.com">
+        Jeff Chan
     </author>
 
     <!--
